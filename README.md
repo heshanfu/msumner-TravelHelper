@@ -6,11 +6,14 @@ Video of App working: https://archive.org/details/msumner-ExpenseClaimVideo_2015
 
 *last minute it stopped working, I tried to fix it! I hope it works now!
 
+Must have an amount in the expenses otherwise it will not work
+
 #####Interface:
 1. Add elements (expenses or claims) by clicking the add button.
-2. Add expense to claim by clicking expense in ListView
-3. Delete using Long Click on element
-4. Edit using Click on element.
+2. Must add expense to expense list before you can add it to claims
+3. Add expense to claim by clicking expense in ListView
+4. Delete using Long Click on element
+5. Edit using Click on element.
 
 #####Allows for:
 1. Emailing
