@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <View
+	 	android:id="@+id/Divider"
+		android:layout_width="fill_parent"
+		android:layout_height="3dp"
+		android:background="@android:color/black" />
+    
+    <TableRow
+        android:id="@+id/tableRow1"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:padding="6dip" >    
+        
+    	<TextView
+        	android:id="@+id/textViewName"
+        	android:layout_width="wrap_content"
+        	android:layout_height="wrap_content"
+        	android:text="Name"
+        	android:textSize="30dp" />
+    
+    </TableRow>
+
+    <TableRow
+        android:id="@+id/tableRow2"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:padding="6dip" >
+
+        <TextView
+            android:id="@+id/textViewStatus"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Status"
+            android:textAppearance="?android:attr/textAppearanceMedium" />
+
+    </TableRow>
+
+    <TableRow
+        android:id="@+id/tableRow3"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:padding="6dip" >
+
+        <TextView
+            android:id="@+id/textViewStart"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="left|start"
+            android:minWidth="50dp"
+            android:text="Start Date"
+            android:textAppearance="?android:attr/textAppearanceMedium" />
+
+        <TextView
+            android:id="@+id/textView1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="            to           "
+            android:textAppearance="?android:attr/textAppearanceLarge" />
+
+        <TextView
+            android:id="@+id/textViewEnd"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="end|fill_horizontal"
+            android:scrollHorizontally="true"
+            android:text="End Date"
+            android:textAppearance="?android:attr/textAppearanceMedium" />
+
+    </TableRow>
+        
+    <TableRow
+        android:id="@+id/tableRow4"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:padding="6dip" >
+
+    </TableRow>
+	
+</TableLayout>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.msumner.travelhelper"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="14"
+        android:targetSdkVersion="17" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name="com.example.msumner.travelhelper.ExpenseClaim"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.example.msumner.travelhelper.AddClaim"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="com.example.msumner.travelhelper.AddClaim" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.example.msumner.travelhelper.AddExpense"
+            android:label="@string/title_activity_add_expense" >
+        </activity>
+        <activity
+            android:name="com.example.msumner.travelhelper.ExpenseList"
+            android:label="@string/title_activity_expense_list" >
+        </activity>
+        <activity
+            android:name="com.example.msumner.travelhelper.EditExpense"
+            android:label="@string/title_activity_edit_expense" >
+        </activity>
+        <activity
+            android:name="com.example.msumner.travelhelper.EditClaim"
+            android:label="@string/title_activity_edit_claim" >
+        </activity>
+        <activity
+            android:name="com.example.msumner.travelhelper.AddExpenseToClaim"
+            android:label="@string/title_activity_add_expense_to_claim" >
+        </activity>
+        <activity
+            android:name="com.example.msumner.travelhelper.SendEmail"
+            android:label="@string/title_activity_send_email" >
+        </activity>
+    </application>
+
+</manifest>

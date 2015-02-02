@@ -1,0 +1,432 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class-diagram version="1.1.8" icons="true" always-add-relationships="true" generalizations="true" realizations="true" 
+  associations="true" dependencies="true" nesting-relationships="true">  
+  <class id="1" language="java" name="com.example.msumner.travelhelper.nonactivities.Claim" project="ExpenseClaim" 
+    file="/ExpenseClaim/src/com/example/msumner/travelhelper/nonactivities/Claim.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="351" width="216" x="1267" y="2314"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="2" language="java" name="com.example.msumner.travelhelper.nonactivities.ClaimBaseAdapter" 
+    project="ExpenseClaim" file="/ExpenseClaim/src/com/example/msumner/travelhelper/nonactivities/ClaimBaseAdapter.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="171" width="216" x="1525" y="1326"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="3" language="java" name="com.example.msumner.travelhelper.nonactivities.ClaimBaseAdapter.ViewHolder" 
+    project="ExpenseClaim" file="/ExpenseClaim/src/com/example/msumner/travelhelper/nonactivities/ClaimBaseAdapter.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="153" width="216" x="1575" y="1555"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="4" language="java" name="com.example.msumner.travelhelper.nonactivities.ClaimController" 
+    project="ExpenseClaim" file="/ExpenseClaim/src/com/example/msumner/travelhelper/nonactivities/ClaimController.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="207" width="216" x="1235" y="1748"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="5" language="java" name="com.example.msumner.travelhelper.nonactivities.Expense" project="ExpenseClaim" 
+    file="/ExpenseClaim/src/com/example/msumner/travelhelper/nonactivities/Expense.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="333" width="259" x="372" y="2314"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="6" language="java" name="com.example.msumner.travelhelper.nonactivities.ExpenseBaseAdapter" 
+    project="ExpenseClaim" 
+    file="/ExpenseClaim/src/com/example/msumner/travelhelper/nonactivities/ExpenseBaseAdapter.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="171" width="216" x="412" y="1326"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="7" language="java" name="com.example.msumner.travelhelper.nonactivities.ExpenseClaimNeeded" 
+    project="ExpenseClaim" 
+    file="/ExpenseClaim/src/com/example/msumner/travelhelper/nonactivities/ExpenseClaimNeeded.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="153" width="265" x="909" y="1555"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="8" language="java" name="com.example.msumner.travelhelper.nonactivities.ExpenseController" 
+    project="ExpenseClaim" 
+    file="/ExpenseClaim/src/com/example/msumner/travelhelper/nonactivities/ExpenseController.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="225" width="216" x="632" y="1748"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="9" language="java" name="com.example.msumner.travelhelper.AddClaim" project="ExpenseClaim" 
+    file="/ExpenseClaim/src/com/example/msumner/travelhelper/AddClaim.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="189" width="208" x="1277" y="1326"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="10" language="java" name="com.example.msumner.travelhelper.AddExpense" project="ExpenseClaim" 
+    file="/ExpenseClaim/src/com/example/msumner/travelhelper/AddExpense.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="171" width="230" x="309" y="302"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="11" language="java" name="com.example.msumner.travelhelper.AddExpenseToClaim" project="ExpenseClaim" 
+    file="/ExpenseClaim/src/com/example/msumner/travelhelper/AddExpenseToClaim.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="135" width="230" x="618" y="1151"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="12" language="java" name="com.example.msumner.travelhelper.EditClaim" project="ExpenseClaim" 
+    file="/ExpenseClaim/src/com/example/msumner/travelhelper/EditClaim.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="351" width="230" x="930" y="760"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="13" language="java" name="com.example.msumner.travelhelper.EditExpense" project="ExpenseClaim" 
+    file="/ExpenseClaim/src/com/example/msumner/travelhelper/EditExpense.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="117" width="208" x="38" y="302"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="14" language="java" name="com.example.msumner.travelhelper.ExpenseClaim" project="ExpenseClaim" 
+    file="/ExpenseClaim/src/com/example/msumner/travelhelper/ExpenseClaim.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="207" width="208" x="1181" y="513"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="15" language="java" name="com.example.msumner.travelhelper.ExpenseList" project="ExpenseClaim" 
+    file="/ExpenseClaim/src/com/example/msumner/travelhelper/ExpenseList.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="225" width="230" x="309" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="16" language="java" name="com.example.msumner.travelhelper.SendEmail" project="ExpenseClaim" 
+    file="/ExpenseClaim/src/com/example/msumner/travelhelper/SendEmail.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="117" width="208" x="370" y="1151"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <dependency id="17">    
+    <end type="SOURCE" refId="4"/>    
+    <end type="TARGET" refId="1"/>  
+  </dependency>  
+  <dependency id="18">    
+    <end type="SOURCE" refId="2"/>    
+    <end type="TARGET" refId="7"/>  
+  </dependency>  
+  <association id="19">    
+    <bendpoint x="276" y="302"/>    
+    <bendpoint x="276" y="513"/>    
+    <bendpoint x="297" y="760"/>    
+    <bendpoint x="318" y="1151"/>    
+    <end type="SOURCE" refId="15" navigable="false">      
+      <attribute id="20" name="adapter">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="21" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="6" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="22">    
+    <bendpoint x="1225" y="1151"/>    
+    <bendpoint x="1225" y="1326"/>    
+    <bendpoint x="1225" y="1555"/>    
+    <end type="SOURCE" refId="12"/>    
+    <end type="TARGET" refId="4"/>  
+  </dependency>  
+  <dependency id="23">    
+    <bendpoint x="878" y="1151"/>    
+    <bendpoint x="857" y="1326"/>    
+    <bendpoint x="857" y="1555"/>    
+    <end type="SOURCE" refId="12"/>    
+    <end type="TARGET" refId="8"/>  
+  </dependency>  
+  <dependency id="24">    
+    <end type="SOURCE" refId="9"/>    
+    <end type="TARGET" refId="14"/>  
+  </dependency>  
+  <dependency id="25">    
+    <bendpoint x="1460" y="1555"/>    
+    <bendpoint x="1481" y="1748"/>    
+    <bendpoint x="1481" y="2013"/>    
+    <end type="SOURCE" refId="9"/>    
+    <end type="TARGET" refId="1"/>  
+  </dependency>  
+  <dependency id="26">    
+    <bendpoint x="1481" y="1555"/>    
+    <end type="SOURCE" refId="2"/>    
+    <end type="TARGET" refId="4"/>  
+  </dependency>  
+  <dependency id="27">    
+    <bendpoint x="658" y="1555"/>    
+    <end type="SOURCE" refId="6"/>    
+    <end type="TARGET" refId="8"/>  
+  </dependency>  
+  <dependency id="28">    
+    <end type="SOURCE" refId="11"/>    
+    <end type="TARGET" refId="12"/>  
+  </dependency>  
+  <association id="29">    
+    <bendpoint x="1362" y="760"/>    
+    <bendpoint x="1362" y="1151"/>    
+    <end type="SOURCE" refId="14" navigable="false">      
+      <attribute id="30" name="adapter">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="31" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="2" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="32">    
+    <bendpoint x="754" y="302"/>    
+    <end type="SOURCE" refId="15"/>    
+    <end type="TARGET" refId="14"/>  
+  </dependency>  
+  <dependency id="33">    
+    <end type="SOURCE" refId="14"/>    
+    <end type="TARGET" refId="12"/>  
+  </dependency>  
+  <dependency id="34">    
+    <end type="SOURCE" refId="14"/>    
+    <end type="TARGET" refId="15"/>  
+  </dependency>  
+  <nesting id="35">    
+    <end type="SOURCE" refId="2"/>    
+    <end type="TARGET" refId="3"/>  
+  </nesting>  
+  <dependency id="36">    
+    <end type="SOURCE" refId="9"/>    
+    <end type="TARGET" refId="7"/>  
+  </dependency>  
+  <dependency id="37">    
+    <end type="SOURCE" refId="12"/>    
+    <end type="TARGET" refId="16"/>  
+  </dependency>  
+  <dependency id="38">    
+    <end type="SOURCE" refId="15"/>    
+    <end type="TARGET" refId="10"/>  
+  </dependency>  
+  <association id="39">    
+    <end type="SOURCE" refId="7" navigable="false">      
+      <attribute id="40" name="expensecontroller">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="41" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="8" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="42">    
+    <bendpoint x="1267" y="1555"/>    
+    <end type="SOURCE" refId="9"/>    
+    <end type="TARGET" refId="4"/>  
+  </dependency>  
+  <dependency id="43">    
+    <end type="SOURCE" refId="12"/>    
+    <end type="TARGET" refId="11"/>  
+  </dependency>  
+  <dependency id="44">    
+    <bendpoint x="1246" y="760"/>    
+    <bendpoint x="1246" y="1151"/>    
+    <bendpoint x="1246" y="1326"/>    
+    <bendpoint x="1246" y="1555"/>    
+    <end type="SOURCE" refId="14"/>    
+    <end type="TARGET" refId="4"/>  
+  </dependency>  
+  <association id="45">    
+    <end type="SOURCE" refId="7" navigable="false">      
+      <attribute id="46" name="claimcontroller">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="47" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="4" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="48">    
+    <end type="SOURCE" refId="12"/>    
+    <end type="TARGET" refId="14"/>  
+  </dependency>  
+  <dependency id="49">    
+    <bendpoint x="381" y="1555"/>    
+    <bendpoint x="381" y="1748"/>    
+    <bendpoint x="381" y="2013"/>    
+    <end type="SOURCE" refId="6"/>    
+    <end type="TARGET" refId="5"/>  
+  </dependency>  
+  <dependency id="50">    
+    <bendpoint x="318" y="513"/>    
+    <bendpoint x="318" y="760"/>    
+    <bendpoint x="297" y="1151"/>    
+    <bendpoint x="318" y="1326"/>    
+    <bendpoint x="360" y="1555"/>    
+    <end type="SOURCE" refId="10"/>    
+    <end type="TARGET" refId="8"/>  
+  </dependency>  
+  <dependency id="51">    
+    <end type="SOURCE" refId="10"/>    
+    <end type="TARGET" refId="14"/>  
+  </dependency>  
+  <dependency id="52">    
+    <bendpoint x="1267" y="760"/>    
+    <bendpoint x="1267" y="1151"/>    
+    <end type="SOURCE" refId="14"/>    
+    <end type="TARGET" refId="9"/>  
+  </dependency>  
+  <dependency id="53">    
+    <bendpoint x="297" y="513"/>    
+    <bendpoint x="276" y="760"/>    
+    <bendpoint x="276" y="1151"/>    
+    <bendpoint x="276" y="1326"/>    
+    <bendpoint x="276" y="1555"/>    
+    <bendpoint x="276" y="1748"/>    
+    <bendpoint x="276" y="2013"/>    
+    <end type="SOURCE" refId="10"/>    
+    <end type="TARGET" refId="5"/>  
+  </dependency>  
+  <dependency id="54">    
+    <end type="SOURCE" refId="8"/>    
+    <end type="TARGET" refId="5"/>  
+  </dependency>  
+  <dependency id="55">    
+    <bendpoint x="941" y="1151"/>    
+    <bendpoint x="941" y="1326"/>    
+    <end type="SOURCE" refId="12"/>    
+    <end type="TARGET" refId="7"/>  
+  </dependency>  
+  <dependency id="56">    
+    <bendpoint x="1190" y="760"/>    
+    <bendpoint x="1190" y="1151"/>    
+    <bendpoint x="1183" y="1326"/>    
+    <end type="SOURCE" refId="14"/>    
+    <end type="TARGET" refId="7"/>  
+  </dependency>  
+  <dependency id="57">    
+    <bendpoint x="1523" y="1555"/>    
+    <bendpoint x="1523" y="1748"/>    
+    <bendpoint x="1502" y="2013"/>    
+    <end type="SOURCE" refId="2"/>    
+    <end type="TARGET" refId="1"/>  
+  </dependency>  
+  <dependency id="58">    
+    <end type="SOURCE" refId="15"/>    
+    <end type="TARGET" refId="13"/>  
+  </dependency>  
+  <association id="59">    
+    <end type="SOURCE" refId="1" navigable="false">      
+      <attribute id="60" name="claimItems"/>      
+      <multiplicity id="61" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="1" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="62">    
+    <bendpoint x="1169" y="1151"/>    
+    <bendpoint x="1204" y="1326"/>    
+    <bendpoint x="1204" y="1555"/>    
+    <bendpoint x="1204" y="1748"/>    
+    <bendpoint x="1208" y="2013"/>    
+    <end type="SOURCE" refId="12"/>    
+    <end type="TARGET" refId="1"/>  
+  </dependency>  
+  <dependency id="63">    
+    <bendpoint x="899" y="513"/>    
+    <bendpoint x="899" y="760"/>    
+    <bendpoint x="899" y="1151"/>    
+    <bendpoint x="899" y="1326"/>    
+    <end type="SOURCE" refId="10"/>    
+    <end type="TARGET" refId="7"/>  
+  </dependency>  
+  <association id="64">    
+    <end type="SOURCE" refId="11" navigable="false">      
+      <attribute id="65" name="adapter">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="66" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="6" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="67">    
+    <end type="SOURCE" refId="6"/>    
+    <end type="TARGET" refId="7"/>  
+  </dependency>  
+  <dependency id="68">    
+    <bendpoint x="339" y="1151"/>    
+    <bendpoint x="339" y="1326"/>    
+    <bendpoint x="339" y="1555"/>    
+    <bendpoint x="339" y="1748"/>    
+    <bendpoint x="339" y="2013"/>    
+    <end type="SOURCE" refId="12"/>    
+    <end type="TARGET" refId="5"/>  
+  </dependency>  
+  <classifier-display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+    sort-features="false" accessors="true" visibility="true">    
+    <attributes public="true" package="true" protected="true" private="true" static="true"/>    
+    <operations public="true" package="true" protected="true" private="true" static="true"/>  
+  </classifier-display>  
+  <association-display labels="true" multiplicity="true"/>
+</class-diagram>
