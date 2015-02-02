@@ -45,3 +45,5 @@ http://stackoverflow.com/questions/5070830/populating-a-listview-using-arraylist
 https://www.youtube.com/watch?v=fFOPzmeknNo 1/23/2015
 
 http://androidexample.com/Create_A_Simple_Listview_-_Android_Example/index.php?view=article_discription&aid=65&aaid=90 1/25/2015
+
+https://github.com/nklose/CMPUT301 2015
