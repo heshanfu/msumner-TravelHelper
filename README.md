@@ -3,6 +3,9 @@
 Used to add expenses with amount spent for traveling and adding them to a claim. Claim will then sum up expenses to see total cost of trip.
 
 Video of App working: https://archive.org/details/msumner-ExpenseClaimVideo_20150202
+
+*last minute it stopped working, I tried to fix it! I hope it works now!
+
 #####Interface:
 1. Add elements (expenses or claims) by clicking the add button.
 2. Add expense to claim by clicking expense in ListView
